@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5070375725406716512}
   - component: {fileID: 3232557711610188846}
   - component: {fileID: 4719374568443137145}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wall Collider
   m_TagString: Wall
   m_Icon: {fileID: 0}
